@@ -1,4 +1,4 @@
-<h1>Este é um trabalho em conjunto com a <a href="https://www.rocketseat.com.br/explorer"
+<h1>Este é um projeto em conjunto com a <a href="https://www.rocketseat.com.br/explorer"
  >Rocketseat</a>, contem alterações pessoais dentro do codigo HTML. </h1>
 <h1 align="center"> DevLinks </h1>
 
